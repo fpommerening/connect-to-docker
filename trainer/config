@@ -1,0 +1,7 @@
+Host linux-trainer.workshop
+  User teilnehmer
+  IdentityFile /share/.ssh/rsa_key
+
+Host windows-trainer.workshop
+  User Administrator
+  IdentityFile /share/.ssh/rsa_key
